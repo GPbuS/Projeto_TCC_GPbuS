@@ -1,4 +1,11 @@
-# Projeto_TCC_GPbuS            ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
+<h1 align="center"> Projeto GPbuS: </h1>                              
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 
-O GPbuS foi criado pelos alunos do COTIL, Laura, Luan, Pedro e Newton, com o propósito de facilitar e tornar mais eficiente a vida dos passageiros de ônibus. Sua função principal é preocupar-se com o bem-estar e as opiniões dos usuários de transporte público, visando oferecer o melhor serviço possível para atender às suas necessidades.
+![logo2](https://github.com/GPbuS/Projeto_TCC_GPbuS/assets/126686971/c047d3b6-f373-4884-9d56-60bb1947f66d)
 
+O GPbuS, idealizado por Laura, Luan, Pedro e Newton, estudantes do Colégio Técnico de Limeira -COTIL-, teve sua concepção no 2° ano do Curso de Desenvolvimento de Sistemas, no ano de 2022. Sob a orientação de Priscila Keli Lima Pinto Frizzarin, Tania Basso e Jose Alberto Matioli, o projeto foi moldado com a missão de simplificar e aprimorar a experiência dos passageiros de ônibus.
+Este inovador aplicativo não apenas visa facilitar a vida dos usuários, mas também oferece recursos que elevam a eficiência do transporte público. A inclusão de alarmes no GPbuS, por exemplo, reduz substancialmente a probabilidade de um passageiro perder ou esquecer sua viagem. A notificação o alerta quando seu ônibus se aproxima do ponto anterior ao seu, minimizando as chances de perda do transporte. Além disso, o aplicativo possibilita visualizar em tempo real a localização do ônibus, identificar os pontos mais próximos e acessar informações relevantes sobre o motorista, incluindo avaliações feitas por outros passageiros. Detalhes sobre o estado de qualidade do ônibus também são fornecidos, contribuindo para uma experiência de viagem mais informada.
+Um diferencial singular do GPbuS é a introdução de gamificação e a moeda fictícia chamada BusBucks. Através de desafios e interações no aplicativo, os passageiros podem acumular BusBucks e, ao atingir uma quantidade determinada, trocá-los por passagens gratuitas. Avaliações, tanto do motorista quanto do estado do ônibus, são algumas das formas de ganhar essas moedas virtuais, proporcionando aos usuários uma experiência interativa e recompensadora.
+Portanto, o comprometimento com o bem-estar e as opiniões dos passageiros é fundamental para nós, pois buscamos incessantemente oferecer o melhor serviço possível, alinhando-se à visão de tornar a jornada de cada usuário mais conveniente e agradável no universo do transporte público.
+
+<h3 align="center"> DESENVOLVIMENTOS: </h3>
